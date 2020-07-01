@@ -4,7 +4,7 @@
 
 - Build classes that produce objects that relate to one another.
 
-## Description
+## Description ###
 
 In this lab, we are going to be creating a very, very simple version of
 Kickstarter. We'll have Projects and Backers (and no concept of money at all),
