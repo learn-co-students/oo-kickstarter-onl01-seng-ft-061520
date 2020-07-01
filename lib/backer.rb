@@ -1,3 +1,4 @@
+#a class of backers that are linked to projects
 class Backer
   attr_accessor :name
 
