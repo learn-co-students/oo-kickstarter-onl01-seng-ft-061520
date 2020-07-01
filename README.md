@@ -1,5 +1,5 @@
 # Object Oriented Kickstarter
-"Hello"
+"Hello again"
 ## Objectives
 
 - Build classes that produce objects that relate to one another.
